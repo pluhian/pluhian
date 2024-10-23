@@ -1,4 +1,4 @@
-<img align="left" height="100" src="https://github.com/pluhian/pluhian/blob/main/tole.gif?raw=true"/>
+<img height="100" src="https://github.com/pluhian/pluhian/blob/main/tole.gif?raw=true"/>
 
 ```diff
 hi, im Rayan 🔮.
