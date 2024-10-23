@@ -1,4 +1,4 @@
-<img align="left" height="200" src="https://media1.tenor.com/m/p6Vj8FTVydwAAAAd/tole-cat.gif"/>
+<img align="left" height="200" src="https://i.imgur.com/eLXegKt.gif"/>
 
 ```diff
 hi, im abc 🔮.
