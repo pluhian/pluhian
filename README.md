@@ -1,4 +1,4 @@
-<img align="left" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
+<img align="left" height="200" src="https://media1.tenor.com/m/p6Vj8FTVydwAAAAd/tole-cat.gif"/>
 
 ```diff
 hi, im abc 🔮.
@@ -10,4 +10,4 @@ hi, im abc 🔮.
 # 📖 abc
 ```
 
-<img src="https://u8views.com/api/v1/github/profiles/28711824/views/day-week-month-total-count.svg" width="0" height="0">
+<img src="https://u8views.com/api/v1/github/profiles/114155787/views/day-week-month-total-count.svg" width="0" height="0">
