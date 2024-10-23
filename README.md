@@ -1,9 +1,8 @@
-<img align="left" height="500" src="https://github.com/pluhian/pluhian/blob/main/tole.gif?raw=true"/>
+<img align="left" height="100" src="https://github.com/pluhian/pluhian/blob/main/tole.gif?raw=true"/>
 
 ```diff
-hi, im abc 🔮.
+hi, im Rayan 🔮.
 
-@@ abc.@@
 + 📌 Netherlands
 - 17 years old
 ! 🗣️ English, dutch
