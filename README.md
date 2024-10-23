@@ -1,4 +1,4 @@
-<img align="left" height="200" src="https://i.imgur.com/eLXegKt.gif"/>
+<img align="left" height="200" src="https://github.com/pluhian/pluhian/blob/main/tole.gif?raw=true"/>
 
 ```diff
 hi, im abc 🔮.
