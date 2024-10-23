@@ -1,11 +1,13 @@
-<img align="left" height="200" src="[https://cdn.discordapp.com/attachments/1256970524790095924/1273403573970927747/attachment-41.gif?ex=6719747e&is=671822fe&hm=e9303f43a9575042c285bb92917d5d8f6f3f5805ceb3bbe103b8d2cb0189b328&]"/>
+<img align="left" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
 
 ```diff
-hi, im rayan 🔮.
+hi, im abc 🔮.
 
-@@ a.@@
-+ living in the netherlands
-- 17 years old
+@@ abc.@@
++ abc
+- abc years old
+! abc
+# 📖 abc
 ```
 
-<img src="https://u8views.com/api/v1/github/profiles/114155787/views/day-week-month-total-count.svg" width="0" height="0">
+<img src="https://u8views.com/api/v1/github/profiles/28711824/views/day-week-month-total-count.svg" width="0" height="0">
