@@ -1,4 +1,4 @@
-<img align="left" height="200" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_dark_1x_r5.png"/>
+<img align="left" height="200" src="https://media1.tenor.com/m/p6Vj8FTVydwAAAAd/tole-cat.gif"/>
 
 ```diff
 hi, im abc 🔮.
